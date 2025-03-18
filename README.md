@@ -33,9 +33,4 @@ Vamos juntos fazer essa aplicação ainda mais completa!
 
 #Flamengo #Programação #JavaScript #HTML #CSS
 
-Observações:
 
-Adapte o tom: Você pode ajustar o tom do README de acordo com o seu público. Se for para um público mais técnico, pode adicionar mais detalhes sobre a implementação.
-Imagens e GIFs: Inclua imagens e GIFs para deixar o README mais visualmente atraente.
-Chamadas para ação: Incentive os usuários a contribuírem com o projeto.
-Hashtags: Utilize hashtags relevantes para aumentar a visibilidade do seu projeto nas redes sociais.
